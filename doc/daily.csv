@@ -1,0 +1,9 @@
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+-33.0,-60.625,36.0,-10800,America/Sao_Paulo,-03
+
+time,temperature_2m_max (°C),temperature_2m_min (°C),precipitation_sum (mm),precipitation_probability_max (%)
+1696906800,32.4,17.0,2.80,81
+1696993200,19.3,11.3,19.60,100
+1697079600,16.6,7.3,0.00,0
+1697166000,19.2,8.0,0.00,0
+1697252400,22.9,10.0,0.00,0
